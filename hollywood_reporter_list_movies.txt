@@ -1,0 +1,100 @@
+100 The Seven Samurai
+99 Bonnie and Clyde
+98 Reservoir Dogs
+97 Airplane!
+96 Pan's Labyrinth
+95 Doctor Zhivago
+94 The Deer Hunter
+93 Close Encounters of the Third Kind
+92 Up
+91 Rocky
+90 Memento
+89 Braveheart
+88 Slumdog Millionaire
+87 The Lord of the Rings: The Return of the King
+86 Beauty and the Beast
+85 Seven
+84 Inception
+83 Die Hard
+82 The Lord of the Rings: The Fellowship of the Ring
+81 Amadeus
+80 On the Waterfront
+79 Wall-E
+78 12 Angry Men
+77 Ghostbusters
+76 Brokeback Mountain
+75 The Bridge on the River Kwai
+74 Blazing Saddles
+73 All the President's Men
+72 Young Frankenstein
+71 Almost Famous
+70 Vertigo
+69 Gladiator
+68 Monty Python and The Holy Grail
+67 Avatar
+66 The Lion King
+65 Raging Bull
+64 Mary Poppins
+63 Groundhog Day
+62 North by Northwest
+61 West Side Story
+60 Amelie
+59 Thelma & Louise
+58 Sunset Blvd.
+57 The Dark Knight
+56 Eternal Sunshine of the Spotless Mind
+55 Taxi Driver
+54 Butch Cassidy and the Sundance Kid
+53 Good Will Hunting
+52 All About Eve
+51 The Big Lebowski
+50 Jurassic Park
+49 Rear Window
+48 The Usual Suspects
+47 Some Like It Hot
+46 Saving Private Ryan
+45 Titanic
+44 The Matrix
+43 Toy Story
+42 Alien
+41 Psycho
+40 Fight Club
+39 The Shining
+38 When Harry Met Sally
+37 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+36 Ferris Bueller's Day Off
+35 A Clockwork Orange
+34 American Beauty
+33 Fargo
+32 The Empire Strikes Back
+31 The Princess Bride
+30 One Flew Over the Cuckoo's Nest
+29 Blade Runner
+28 The Graduate
+27 The Breakfast Club
+26 Singin' in the Rain
+25 The Sound of Music
+24 Jaws
+23 Lawrence of Arabia
+22 The Silence of the Lambs
+21 Chinatown
+20 It's a Wonderful Life
+19 Goodfellas
+18 Annie Hall
+17 Apocalypse Now
+16 To Kill a Mockingbird
+15 Gone With the Wind
+14 Forrest Gump
+13 Raiders of the Lost Ark
+12 Back to the Future
+11 Star Wars
+10 Schindler's List
+9 2001: A Space Odyssey
+8 E.T. The Extra-Terrestrial
+7 The Godfather: Part II
+6 Casablanca
+5 Pulp Fiction
+4 The Shawshank Redemption
+3 Citizen Kane
+2 The Wizard of Oz
+1 The Godfather
